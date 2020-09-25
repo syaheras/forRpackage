@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1600918431485.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3203463993",
+    "id" : "151276D3",
+    "lastKnownWriteTime" : 1600843444,
+    "last_content_update" : 1600843444,
+    "path" : "C:/Users/Admin/Desktop/Syahera/ibufunctions/man/ibusimplecap.Rd",
+    "project_path" : "man/ibusimplecap.Rd",
+    "properties" : {
+    },
+    "read_only" : true,
+    "read_only_alternatives" : [
+        "R/ibufunction.R"
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_doc"
+}

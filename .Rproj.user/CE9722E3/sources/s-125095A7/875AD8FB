@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1600918480474.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "875AD8FB",
+    "lastKnownWriteTime" : 1600918151,
+    "last_content_update" : 1600918151,
+    "path" : "C:/Users/Admin/Desktop/Syahera/ibufunctions/tests/testthat/test_ibupackages.r",
+    "project_path" : "tests/testthat/test_ibupackages.r",
+    "properties" : {
+        "cursorPosition" : "17,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

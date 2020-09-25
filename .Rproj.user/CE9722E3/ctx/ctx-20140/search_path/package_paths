@@ -1,0 +1,8 @@
+datasets="C:/Program Files/R/R-3.6.1/library/datasets"
+grDevices="C:/Program Files/R/R-3.6.1/library/grDevices"
+graphics="C:/Program Files/R/R-3.6.1/library/graphics"
+ibufunction="C:/Users/Admin/Desktop/Syahera/ibufunction"
+methods="C:/Program Files/R/R-3.6.1/library/methods"
+stats="C:/Program Files/R/R-3.6.1/library/stats"
+testthat="C:/Users/Admin/Documents/R/win-library/3.6/testthat"
+utils="C:/Program Files/R/R-3.6.1/library/utils"

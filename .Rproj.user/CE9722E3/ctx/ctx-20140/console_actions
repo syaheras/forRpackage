@@ -1,0 +1,16 @@
+{
+    "data" : [
+        "> ",
+        "devtools::test()",
+        "Loading ibufunction\n",
+        "Testing ibufunction\n",
+        "√ |  OK [31mF[39m [35mW[39m [34mS[39m | Context\n\r/ |   0       | capitalise first letter\r[32m√[39m |   3       | capitalise first letter\n\r/ |   0       | reformat column names\r[32m√[39m |   2       | reformat column names\n\n== [1mResults[22m =====================================================================\nOK:       [32m5[39m\nFailed:   [32m0[39m\nWarnings: [32m0[39m\nSkipped:  [32m0[39m\n\nRestarting R session...\n\n"
+    ],
+    "type" : [
+        0,
+        1,
+        3,
+        3,
+        2
+    ]
+}
